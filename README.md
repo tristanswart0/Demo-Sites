@@ -1,2 +1,7 @@
-# Demo-Sites
-This repository features web development projects utilizing HTML to create clean and structured web pages. It includes a personal portfolio site, an e-commerce landing page, and a blog layout. These projects showcase my commitment to developing functional and user-friendly web experiences. Feel free to explore my work and see how I can help you!
+About Me
+I’m Tristan, a web developer focused on building engaging and user-friendly websites. Currently, I have a portfolio site to showcase my skills and a cafe demo site that demonstrates my ability to create functional and appealing interfaces.
+
+Projects
+Portfolio Site: A personal site highlighting my skills and web development experience.
+Cafe Demo Site: A project showcasing a cafe’s menu and layout, designed for appealing user interaction.
+Feel free to check out my projects and reach out if you'd like to collaborate!
